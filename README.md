@@ -126,7 +126,7 @@ the config file used to start the node.
 
 The default config file saves data in `nodes/default/`.
 
-### Send Transaction via RPC
+### Use RPC
 
 Find RPC port in the log output, the following command assumes 8114 is used:
 
